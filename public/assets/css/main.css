@@ -1,0 +1,23 @@
+.form-control {
+    height: 4rem;
+}
+label {
+    margin-top: 2rem;
+    color: #151515;
+}
+.login-container .heading {
+    margin-bottom: 1rem;
+}
+.icon-menu {
+    color: white;
+}
+.btn-primary {
+    background-color: #003CAD;
+    border-color: #003CAD;
+}
+.forget-pass {
+    color: #003CAD;
+}
+.forgotpassword h4 {
+    text-align: left;
+}
